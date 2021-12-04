@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.section-footer{
+    background-color: black;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+
+.review{
+    width: 20rem;
+    height: 25rem;
+}
+.review:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
